@@ -1,0 +1,2 @@
+# YouthMentalHealthCounseling_Chat
+ChatGPT on YouthMentalHealthCounseling

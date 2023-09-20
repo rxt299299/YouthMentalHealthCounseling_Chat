@@ -34,14 +34,14 @@ def QA_messages(QA_path):
     return messages
 
 #模块一：开场白
-class OpenStartChat:
+class OpenStatementChat:
  
     def __init__(self, system_chat_example, temperature):
         self.messages = system_chat_example
         self.temperature = temperature
 
     def chat(self):
-            prompt = "请你随机给出一个开放式提问的开场白"
+            prompt = "Could you please provide an open-ended question as an opening statement for the following psychological counseling?"
             
             messages = self.messages+[{ "role": "user", "content": prompt}]
             

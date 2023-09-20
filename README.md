@@ -39,10 +39,10 @@ Building a chat+micro-counseling product based on ChatGPT as the underlying tech
 
 # Formal Counseling ChatBot Design
 ![ChatBot Design](img/Formal_Counseling_Design.png)
-1. **Opening Statement**: Begin with an open-ended question or statement, serving as the conversation opener. No judgment is needed here.
-2. **Assessing Emotional Extremes**: After the user responds to each dialogue sentence, the AI technology first assesses if the user's emotions are extreme enough to warrant interruption. If interruption is necessary, the conversation proceeds to the next phase; otherwise, it continues.
-3. **Checking for Contradictions**: If there's no need for interruption, the logical step involves checking for contradictions in the user's responses compared to their previous answers. In the case of contradictions, the counselor employs confrontational techniques; otherwise, the evaluation proceeds. From an AI technology perspective, confrontational techniques are distinct and require analyzing all previous dialogues, separating them from other psychological techniques.
-4. **Assessing Appropriate Psychological Techniques**: If no contradictions are found, the next step is to determine which psychological technique the user's response should be addressed with. This determination combines the user's response and logical intervention.
+-  **Component 1: Opening Statement**: Begin with an open-ended question or statement, serving as the conversation opener. No judgment is needed here.
+-  **Component 2: Assessing Emotional Extremes**: After the user responds to each dialogue sentence, the AI technology first assesses if the user's emotions are extreme enough to warrant interruption. If interruption is necessary, the conversation proceeds to the next phase; otherwise, it continues.
+-  **Component 3: Checking for Contradictions**: If there's no need for interruption, the logical step involves checking for contradictions in the user's responses compared to their previous answers. In the case of contradictions, the counselor employs confrontational techniques; otherwise, the evaluation proceeds. From an AI technology perspective, confrontational techniques are distinct and require analyzing all previous dialogues, separating them from other psychological techniques.
+-  **Component 4: Assessing Appropriate Psychological Techniques**: If no contradictions are found, the next step is to determine which psychological technique the user's response should be addressed with. This determination combines the user's response and logical intervention.
    + The available techniques include：
       - Specific techniques
       - Content and emotional reactions
@@ -54,5 +54,5 @@ Building a chat+micro-counseling product based on ChatGPT as the underlying tech
       - Creating pauses
       - Multiple-choice questions
    + Logical Interventions: Logical interventions encompass several principles, such as prioritizing specific techniques in the first four to five questions, tying feedback to specific techniques after every one or two uses, and avoiding prematurely presenting conclusions.
-5. **Counselor's Response Module for each technique**: Based on the assessment of the psychological technique, **Design and Create** ChatGPT based specific module for each technique, generate next response more appropriately.
-6. **Returning the Response to the User**: The generated response is then returned to the user, and the conversation proceeds accordingly.
+-  **Component 5: Counselor's Response Module for each technique**: Based on the assessment of the psychological technique, **Design and Create** ChatGPT based specific module for each technique, generate next response more appropriately.
+-  **Component 6: Returning the Response to the User**: The generated response is then returned to the user, and the conversation proceeds accordingly.

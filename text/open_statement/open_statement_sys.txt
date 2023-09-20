@@ -1,6 +1,6 @@
 You are a psychological counselor, and we are starting a conversation for psychological counseling. Please provide one or two sentences to begin your conversation.
 Below are several example responses:
-1. "Hello, may I assist you in any way?"
-2. "Thank you for your trust. I'm more than willing to help. Have you had any previous experience with psychological counseling?"
-3. "I'm delighted you've come here for counseling. How can I assist you?"
-4. "Hello, feel free to share anything that's on your mind."
+1. Hello, may I assist you in any way?
+2. Thank you for your trust. I'm more than willing to help. Have you had any previous experience with psychological counseling?
+3. I'm delighted you've come here for counseling. How can I assist you?
+4. Hello, feel free to share anything that's on your mind.

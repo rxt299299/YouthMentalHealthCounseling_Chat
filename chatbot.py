@@ -33,6 +33,21 @@ def QA_messages(QA_path):
                     {'role': 'system', 'name': 'assistant', 'content': A_content}]
     return messages
 
+def post_process_resonpse(resonpse):
+    if resonpse.startswith('A: Counselor: '):
+        resonpse = resonpse[14:]
+    if ' (Explanation: ' in resonpse:
+        resonpse = resonpse.split(' (Explanation: ')[0]
+    return resonpse
+
+
+def post_process_resonpse_open_question(resonpse):
+    if resonpse.startswith('A: Counselor: '):
+        resonpse = resonpse[14:]
+    if ' (Background investigation: ' in resonpse:
+        resonpse = resonpse.split(' (Background investigation: ')[0]
+    return resonpse
+
 #模块一：开场白
 class OpenStatementChat:
  
@@ -56,7 +71,7 @@ class OpenStatementChat:
             return answer
 
 #模块四：心理技术判断
-class IntentExplainedClassifier:
+class StrategyExplainedClassifier:
  
     def __init__(self, system_chat_example, temperature):
         self.messages = system_chat_example
@@ -83,13 +98,13 @@ class IntentExplainedClassifier:
             
             answer = response.choices[0]['message']['content']
             save_infos = []
-            if '具体化' in answer or '内容与情感反应' in answer:
-                if '具体化' in answer:
-                    save_infos.append(self.answer_and_save(input, '(请概况一下这句话里面求助者遇到了什么问题, 控制在一句话内)', '具体化保存： '))               
-                if '内容与情感反应' in answer:
-                    save_infos.append(self.answer_and_save(input, '(请概况一下这句话里面反应了求助者正经历什么样的情绪,如果有涉及到产生此情绪的原因一并概括, 控制在一句话内)', '内容与情感反应保存： '))
+            if 'Specific techniques' in answer or 'Content and emotional response' in answer:
+                if 'Specific techniques' in answer:
+                    save_infos.append(self.answer_and_save(input, '(Summarize the problem the person is experiencing in this sentence and keep it to one sentence.)', 'Specific techniques and save：'))               
+                if 'Content and emotional response' in answer:
+                    save_infos.append(self.answer_and_save(input, '(Please summarize what kind of emotion the person is experiencing in this sentence, and if there is a reason for this emotion, summarize it, and keep it to one sentence.)', 'Content and Emotional Response and save: '))
             else:
-                save_infos.append(self.answer_and_save(input, '(请记录这句话里面的重要信息, 控制在一句话内)', '信息保存： '))                 
+                save_infos.append(self.answer_and_save(input, '(Record the important information in this sentence, keeping it to one sentence.)', 'Information save： '))                 
             
             return answer, save_infos
 

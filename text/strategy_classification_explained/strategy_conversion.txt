@@ -1,0 +1,94 @@
+Q: I always feel uncomfortable when interacting with others.
+A: Specific techniques (Needs further details on why they feel uncomfortable during interactions, thus categorized as specific techniques)
+Q: Yes, when I talk to teachers and classmates, I always feel restrained, unable to relax, and worried about saying the wrong thing. When interacting with strangers, this situation worsens, and I even feel quite afraid.
+A: Specific techniques (Describing feeling restrained requires further clarification of the fear, so it falls under specific techniques)
+Q: I'm afraid that others will have an unfriendly attitude towards me and look down on me.
+A: Content and emotional Response (The sentence reflects the emotion of fear, categorizing it as content and emotional response)
+Q: Hmm.
+A: Closed-ended Question (No further elaboration provided, collecting information and organizing it, so it's categorized as a closed-ended question)
+Q: Yes, because I feel uncomfortable when interacting with others, and I feel natural when I'm alone, so I try to avoid contact with others as much as possible. I often study alone and read books. As a result, some of my previous friends have reduced contact, and sometimes I definitely have to interact with strangers, my first reaction is whether I can escape, which greatly affects my normal life.
+A: Content and emotional Response + Specific techniques (The sentence specifically describes the emotion of fear. First, it needs a response to this emotion, so it's categorized as content and emotional response. Second, it expands on the occurrence of this emotion in daily life, so it's also categorized as specific techniques.)
+Q: I hate this feeling, it prevents me from interacting with others normally. If I could interact with others smoothly and successfully, that would be great.
+A: Specific techniques (Requires further in-depth understanding of the reasons behind the difficulty in normal interactions, hence categorized as specific techniques)
+Q: Occasionally, but I always think that chatting and playing cards all day is a waste of life; we shouldn't live like this.
+A: Open-ended Question (The visitor brings up the topic of wasting life and wants to provide a detailed explanation for this thought, categorizing it as an open-ended question)
+Q: Maybe you're right.
+A: Closed-ended Question (No additional content provided, collecting information and organizing it, so it's categorized as a closed-ended question)
+Q: Yeah, quite a few. I think many of them are wasting time and life.
+A: Closed-ended Question (Only a confirmation is given without extra content or emotional expression, so it's categorized as a closed-ended question)
+Q: I was very happy when I was a child, and my parents loved me very much. Unfortunately, my father passed away due to illness when I was 8 years old, and I was very sad. Later, my mother formed a new family, and she invested most of her energy and time in adjusting family relationships. Her way of doing things changed, and she became more concerned, and the family's financial situation was not good either.
+A: Specific techniques (The visitor introduces their family situation and wants to delve into certain issues, so it's categorized as specific techniques)
+Q: I don't like my stepfather; I always have an implicit aversion to him. I feel that he is always indecisive in his actions, lacking a masculine spirit, and he always thinks he's competing with me for my mother's attention. Despite this, I am very understanding of my mother; I always try to share her difficulties, making her worry less and not feel embarrassed.
+A: Specific techniques (The visitor mentions wanting to share their mother's difficulties, indicating a need to explore this further, so it's categorized as specific techniques)
+Q: Every time my mother takes me to the mall and I see something I like or something delicious, I really want it, but it's hard for me to ask for it. Sometimes, when my mother asks me if I want it, I lie and say I don't like it. Later on, I just don't go shopping with my mother to avoid making her uncomfortable, and I'm not happy myself. But I really dislike this inconsistency in myself.
+A: Content and emotional Response + Participant Feedback (The sentence mentions the inconsistency between spoken words and inner thoughts due to not wanting to make the mother uncomfortable, resulting in personal unhappiness. It falls under content and emotional response, and it also involves feedback from the participant.)
+Q: Yes, it seems like I often want things but can't express them, and when I do express them, they're not really what I want.
+A: Specific techniques (Needs to explore why there is a discrepancy between expressed words and inner thoughts, hence categorized as specific techniques)
+Q: Yes.
+A: Closed-ended Question (No additional content provided, collecting information and organizing it, so it's categorized as a closed-ended question)
+Q: I always have to repeatedly wash my hands, fearing they are not clean. Even though I know it's unnecessary, I can't control it, and it's very distressing. I don't want to do anything and I'm afraid to do anything. It's becoming difficult for me to go to work now.
+A: Specific techniques (Describing the situation of compulsive hand washing, requiring further understanding, so it falls under specificization)
+Q: It's been more than 3 years.
+A: Open-ended questioning (Providing the duration, categorized as open-ended questioning)
+Q: Mainly, I have an excessive love for cleanliness, and it's exhausting. Because of this, I can't eat well, sleep well, and sometimes I feel restless, even thinking about not wanting to live anymore. Other than that, there's nothing wrong with my health.
+A: Open-ended questioning (Describing the impact of excessive cleanliness and feelings, requiring further understanding, so it falls under open-ended questioning)
+Q: After graduating from high school, I was unemployed for a while, and then I was assigned to work as a salesperson in a clothing store. I've been working in the store ever since, very diligently. I even received recognition a few times. However, in the last two years, work has been somewhat affected.
+A: Open-ended questioning (Describing the educational and work background, requiring further understanding, so it falls under open-ended questioning)
+Q: People at my workplace are very kind and caring towards me, but my cleanliness habits at the store are notorious. I never consume fruits or snacks given by my colleagues, and I never lend my lunch utensils to others. Although some colleagues disapprove and there have been criticisms, overall, they treat me well.
+A: Open-ended questioning (Describing workplace relationships and cleanliness habits, requiring further understanding, so it falls under open-ended questioning)
+Q: Well, I get along with everyone just fine.
+A: Closed-ended questioning (Providing a simple response without elaboration, categorized as closed-ended questioning)
+Q: I remember one day, I served a customer. This customer appeared emaciated, as if seriously ill. One of their hands, with bulging veins like eagle talons, trembled as they handed me a crumpled and greasy tissue. Out of professional ethics and politeness, I took the tissue, unfolded it, and then proceeded to give change and deliver the goods. I almost held my breath to complete all of this. When the customer left, coughing and spitting, I felt a sudden wave of nausea, and a hot sensation surged up in my abdomen.
+A: Content and emotional response (Describing an interaction with a customer, emotional reactions, and physical sensations, requiring further understanding, so it falls under content and emotional response)
+Q: I got engaged a year ago. Initially, my boyfriend didn't know that (I would try to restrain from excessive hand washing), and our relationship was very good. However, he found out later, and now he's a bit annoyed with me.
+A: Closed-ended questioning (Describing the engagement and hand washing habit, providing basic information, categorized as closed-ended questioning)
+Q: He didn't know, and initially, I didn't want to tell him. Later, I had no choice but to tell him.
+A: Open-ended questioning (Describing the process of telling the boyfriend, requiring further understanding, so it falls under open-ended questioning)
+Q: I performed very poorly in the college entrance examination.
+A: Specific techniques (Describing the situation of the college entrance examination results, providing basic information, categorized as Specific techniques)
+Q: I didn't even get into an ordinary university, and I don't know why this happened.
+A: Content and emotional response (Expressing confusion and dissatisfaction with the exam results, categorized as content and emotional response)
+Q: Yes, I always had good academic performance. I even passed the entrance exam for top-tier universities in practice tests. I thought I could get into a prestigious university, but the actual results turned out like this. I still can't figure out where the problem is.
+A: Closed-ended questioning (Describing confusion and issues with exam results in detail, providing information, categorized as closed-ended questioning)
+Q: But later, I had someone verify my scores, and there was no mistake.
+A: Specific techniques (Describing the step of verifying scores, providing basic information, categorized as Specific techniques)
+Q: Well, it's like this. Two weeks before the exam, my emotions were a bit unstable. I had trouble sleeping at night, no appetite, and I was very worried about the upcoming college entrance exam.
+A: Specific techniques (Describing emotional and physical conditions before the college entrance exam in detail, providing information, categorized as Specific techniques)
+Q: I'm worried that I won't do well in the exam, and I'm afraid of disappointing my parents. Thinking about it makes me feel very anxious.
+A: Content and emotional response + Specific techniques (Expressing worries about the exam and family and providing detailed emotional expression, categorized as content and emotional response + Specific techniques)
+Q: They haven't really said anything to me, but I feel their expectations during our conversations, they want me to get into a prestigious university.
+A: Content and emotional response + Specific techniques (Expressing family's expectations and personal feelings, providing detailed information, categorized as content and emotional response + Specific techniques)
+Q: Well, somewhat.
+A: Open-ended questioning (Answering whether there is pressure, further questioning is needed for deeper understanding, categorized as open-ended questioning)
+Q: My parents are both civil servants, but our family's financial situation is just average.
+A: Open-ended questioning (Providing information about family background, further questioning is needed for deeper understanding, categorized as open-ended questioning)
+Q: My relationships with teachers and classmates have always been good. After the college entrance exam results came out, both the teachers and classmates were very surprised.
+A: Specific techniques (Describing the reactions of teachers and classmates, providing detailed information, categorized as Specific techniques)
+Q: I feel very unhappy, and I don't want to go out or attend supplementary classes.
+A: Closed-ended questioning (Describing one's emotional state and behavior, providing basic information, categorized as closed-ended questioning)
+Q: I didn't do well in my final exams. When the results came out, I was really upset, especially recently. The more I think about it, the angrier I get, and my mood gets worse. I have the English proficiency test (CET-4) coming up soon, but I can't focus on my preparations. I'm always feeling anxious and irritated, and sometimes I even lose my appetite!
+A: Specific techniques (Describing the situation of the final exams and the accompanying emotions and physical state, providing detailed information, categorized as Specific techniques)
+Q: I didn't fail any subjects, though I studied for a long time. I'm not satisfied with my results. Some classmates hardly studied during normal days, they always play around. But when it comes to exams, they either cram at the last minute or use cheat sheets, and they score really well. Then there's the comprehensive evaluation (综测); I haven't seen them participate in any activities, but they still earn so many credits. My own credit score isn't high. I feel like I'm getting dumber and worse than others.
+A: Closed-ended questioning (Expressing dissatisfaction with grades and classmates, providing detailed information, categorized as closed-ended questioning)
+Q: Actually, it's not so much about unfairness; it's more about feeling stupid. I'm really feeling dumb. I work hard, but I can't perform well academically. I always can't find the right study methods, and my study efficiency is very low. My grades are really disappointing.
+A: Closed-ended questioning (Expressing concern about one's learning abilities, providing detailed information, categorized as closed-ended questioning)
+Q: I don't really care much about it myself, but my family cares a lot. They often compare me to other kids and say, 'Look at those kids from other families, they excel in their studies, they even get scholarships, and look at you, you can't do anything, not even your studies.' I used to explain to them that I work hard and am very diligent, but now I don't want to say anything to them anymore. It's pointless; they'll still criticize me. I feel like no matter how hard I try, I can't meet their expectations. I really feel inferior to others!
+A: Closed-ended questioning (Describing family pressure and difficulties in communication with family members, providing detailed information, categorized as closed-ended questioning)
+Q: Yes.
+A: Specific techniques (Answering whether there have been thoughts of suicide, providing brief information, categorized as Specific techniques)
+Q: The result wasn't very good... it's like I'm not even better off than now...
+A: Content and emotional response (Expressing emotions and results of past suicide attempts, categorized as content and emotional response)
+Q: Hello, I would like to consult with you about my situation. I'm very distressed and hope you can help me.
+A: Specific techniques (Describing the visitor's purpose and feelings, providing detailed information, categorized as Specific techniques)
+Q: I'm a child from a single-parent family, and I'm currently in the fifth grade of primary school. I always feel like I'm an outsider among my classmates, perhaps due to my personality. I find it difficult to get along with them, and I'm usually too afraid to talk to my classmates. They also seem uninterested in me, which makes me walk around with my head down, watching them laugh and have fun, but I always feel like I can't fit into their world.
+A: Content and emotional response (Describing personal background and difficulties in interacting with classmates, expressing feelings, categorized as content and emotional response)
+Q: Yes, I always feel like my classmates look down on me and avoid interacting with me, which makes me very uncomfortable in school.
+A: Specific techniques (Further describing classmates' attitudes and personal feelings, providing detailed information, categorized as Specific techniques)
+Q: For example, last week, our class had a parent-teacher meeting. Other students had both their parents accompanying them, and they seemed so happy. However, I only had my mom attending, and she was late. When the meeting started, they all sat with their parents, while I was left all alone. Watching them laugh, I always felt like they were mocking me. When I saw them whispering with their parents, I thought they were discussing me. I could only lower my head and twist my fingers, feeling very sad.
+A: Content and emotional response (Describing the scene at the parent-teacher meeting and personal feelings, providing detailed information, categorized as content and emotional response)
+Q: Yes.
+A: Closed-ended questioning (Responding to the previous situation, categorized as closed-ended questioning)
+Q: Well, I do understand her. My mom believes that education is the path to success, so she cares a lot about my studies and makes every effort to communicate with my teachers. However, it's just...
+A: Specific techniques (Describing understanding of the mother and the background of the focus on education, providing detailed information, categorized as Specific techniques)
+Q: Perhaps what you're saying is correct.
+A: Closed-ended questioning (Responding to the previous situation, categorized as closed-ended questioning) 

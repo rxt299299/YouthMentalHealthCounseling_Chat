@@ -11,6 +11,9 @@ Project in Progress, Not Completed Yet
 
 Building a chat+micro-counseling product based on ChatGPT as the underlying technology aims to assist more individuals in need of psychological support. The goal is to intervene during the early stages of psychological issues, preventing their escalation, and make psychological counseling accessible to a wider audience, particularly in regions lacking professional counseling services. Currently, for severe psychological issues, access to professional counselors is provided for complex interventions, optimizing resource allocation. In the future, with accumulating data, chat systems may explore addressing more complex psychological problems.
 
+## Conversation Compare
+![conversation compare between original ChatGPT and our revised mental version](img/conversation_compare.png)
+
 # Background
 1. According to the World Health Organization, over 3 billion people globally need psychological intervention, but only around 10% have access to counseling, mainly due to a shortage of professional psychologists and regional disparities.
 2. The fast-paced era has led to a surge in youth psychological issues, distinct in their complexity and challenges, including detection difficulties and multifaceted causal factors involving family, peers, and society.

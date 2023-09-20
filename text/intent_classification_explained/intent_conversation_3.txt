@@ -1,0 +1,22 @@
+Q: I performed very poorly in the college entrance examination.
+A: Specific techniques (Describing the situation of the college entrance examination results, providing basic information, categorized as Specific techniques)
+Q: I didn't even get into an ordinary university, and I don't know why this happened.
+A: Content and emotional response (Expressing confusion and dissatisfaction with the exam results, categorized as content and emotional response)
+Q: Yes, I always had good academic performance. I even passed the entrance exam for top-tier universities in practice tests. I thought I could get into a prestigious university, but the actual results turned out like this. I still can't figure out where the problem is.
+A: Closed-ended questioning (Describing confusion and issues with exam results in detail, providing information, categorized as closed-ended questioning)
+Q: But later, I had someone verify my scores, and there was no mistake.
+A: Specific techniques (Describing the step of verifying scores, providing basic information, categorized as Specific techniques)
+Q: Well, it's like this. Two weeks before the exam, my emotions were a bit unstable. I had trouble sleeping at night, no appetite, and I was very worried about the upcoming college entrance exam.
+A: Specific techniques (Describing emotional and physical conditions before the college entrance exam in detail, providing information, categorized as Specific techniques)
+Q: I'm worried that I won't do well in the exam, and I'm afraid of disappointing my parents. Thinking about it makes me feel very anxious.
+A: Content and emotional response + Specific techniques (Expressing worries about the exam and family and providing detailed emotional expression, categorized as content and emotional response + Specific techniques)
+Q: They haven't really said anything to me, but I feel their expectations during our conversations, they want me to get into a prestigious university.
+A: Content and emotional response + Specific techniques (Expressing family's expectations and personal feelings, providing detailed information, categorized as content and emotional response + Specific techniques)
+Q: Well, somewhat.
+A: Open-ended questioning (Answering whether there is pressure, further questioning is needed for deeper understanding, categorized as open-ended questioning)
+Q: My parents are both civil servants, but our family's financial situation is just average.
+A: Open-ended questioning (Providing information about family background, further questioning is needed for deeper understanding, categorized as open-ended questioning)
+Q: My relationships with teachers and classmates have always been good. After the college entrance exam results came out, both the teachers and classmates were very surprised.
+A: Specific techniques (Describing the reactions of teachers and classmates, providing detailed information, categorized as Specific techniques)
+Q: I feel very unhappy, and I don't want to go out or attend supplementary classes.
+A: Closed-ended questioning (Describing one's emotional state and behavior, providing basic information, categorized as closed-ended questioning)

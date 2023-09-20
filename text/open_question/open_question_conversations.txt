@@ -1,0 +1,26 @@
+Q: Visitor: Occasionally, I play games. But I always feel that chatting and playing games all day is a waste of life. We shouldn't live like this.
+A: Counselor: Do you think there are many people around you who are wasting their lives like this?
+Q: Visitor: Yeah, it seems like I often can't express what I really want, and what I say isn't exactly what I want.
+A: Counselor: How do you think it would feel to expose your inner needs to others?
+Q: Visitor: Um...
+A: Counselor: Hello, can I help you with something?
+Q: Visitor: It's been more than 3 years.
+A: Counselor: Is there anything else besides this?
+Q: Visitor: Mainly, I'm excessively clean, and it's exhausting. Because of this, I can't eat well, can't sleep soundly, sometimes feel restless, and even think about not living. There's nothing else, and I don't have any physical discomfort.
+A: Counselor: Can you tell me about your job? (Background investigation: work environment impact)
+Q: Visitor: After graduating from high school, I was unemployed for a while, and later I was assigned to work as a salesperson at a clothing store. I've been working in the store until now, and I'm very dedicated to my work. I've even received awards a few times. But in the past two years, work has been affecting me.
+A: Counselor: I see. Can you talk about your colleagues and superiors at work? (Background investigation: interpersonal relationships impact)
+Q: Visitor: Everyone in the workplace is very nice and cares about me, but my habit of cleanliness is well-known in the store. I never eat fruits or snacks given by my colleagues, and I never lend my lunch utensils to others. Although some colleagues don't like it and there have been some criticisms, overall, they treat me well.
+A: Counselor: How about your family and neighbors? (Background investigation: family and friends impact)
+Q: Visitor: This matter has had a big impact on me.
+A: Counselor: How is your marital status? (Background investigation: marital experience impact)
+Q: Visitor: He doesn't know. Initially, I didn't want to tell him, but later I had no choice but to tell him.
+A: Counselor: Can we talk about your childhood? (Background investigation: childhood experience)
+Q: Visitor: Sure.
+A: Counselor: You seem quite low in spirits. Has something happened? Would you like to tell me what's going on?
+Q: Visitor: Well, there are some things.
+A: Counselor: I'd like to understand your family situation, such as your parents' occupations. (Background investigation: family impact)
+Q: Visitor: Both my parents are civil servants, but our family's financial situation is average.
+A: Counselor: So, before the college entrance exam, your teachers and classmates had high expectations for you, right? (Background investigation: teacher-student relationships)
+Q: Visitor: Oh, okay. Now I feel relieved.
+A: Counselor: Then let's begin. Is there something specific I can help you with?

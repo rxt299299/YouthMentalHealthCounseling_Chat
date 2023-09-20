@@ -44,11 +44,15 @@ Building a chat+micro-counseling product based on ChatGPT as the underlying tech
 3. **Checking for Contradictions**: If there's no need for interruption, the logical step involves checking for contradictions in the user's responses compared to their previous answers. In the case of contradictions, the counselor employs confrontational techniques; otherwise, the evaluation proceeds. From an AI technology perspective, confrontational techniques are distinct and require analyzing all previous dialogues, separating them from other psychological techniques.
 4. **Assessing Appropriate Psychological Techniques**: If no contradictions are found, the next step is to determine which psychological technique the user's response should be addressed with. This determination combines the user's response and logical intervention.
    + The available techniques include：
-      - specific techniques
-      - creating pauses
-      - multiple-choice questions
-      - content and emotional reactions
-      - repetitive techniques 
+      - Specific techniques
+      - Content and emotional reactions
+      - Open-ended questioning
+      - Closed-ended questioning
+      - Awkwardness
+      - Confrontation
+      - Repetitive techniques
+      - Creating pauses
+      - Multiple-choice questions
    + Logical Interventions: Logical interventions encompass several principles, such as prioritizing specific techniques in the first four to five questions, tying feedback to specific techniques after every one or two uses, and avoiding prematurely presenting conclusions.
-5. **Counselor's Response Module for each technique**: Based on the assessment of the psychological technique, ChatGPT generates specific counselor's response module for the next sentence.
+5. **Counselor's Response Module for each technique**: Based on the assessment of the psychological technique, **Design and Create** ChatGPT based specific module for each technique, generate next response more appropriately.
 6. **Returning the Response to the User**: The generated response is then returned to the user, and the conversation proceeds accordingly.
